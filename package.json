@@ -3,11 +3,11 @@
   "version": "0.0.2",
   "main": "index.js",
   "dependencies": {
-    "ejs": "~0.8.3",
-    "through": "~2.2.7"
+    "ejs": "~0.8.5",
+    "through": "~2.3.4"
   },
   "devDependencies": {
-    "browserify": "~2.11.0"
+    "browserify": "~3.24.11"
   },
   "description": "EJS precompiler for browserify",
   "keywords": [
